@@ -19,8 +19,6 @@ git clone https://github.com/10095haninguyen/miniRAG.git
 cd miniRAG
 
 2. Tao file api_key.env:
-API_KEY=your_google_api_key_here
-
 python test.py
 
 10095haninguyen
