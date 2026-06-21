@@ -27,3 +27,15 @@ build/
 .idea/
 *.swp
 *.swo
+# API key
+api_key.env
+.env
+
+# Cache files
+*.pkl
+*.pickle
+faiss_index/
+embedding_cache/
+
+# PDF (nếu nhạy cảm)
+*.pdf
